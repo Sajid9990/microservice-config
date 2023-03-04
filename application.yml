@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: config-server-default
+
 # Eureka Client Configuration
 eureka:
   instance:
